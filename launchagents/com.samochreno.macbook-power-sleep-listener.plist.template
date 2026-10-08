@@ -6,7 +6,7 @@
   <string>com.samochreno.macbook-power-sleep-listener</string>
   <key>ProgramArguments</key>
   <array>
-    <string>__SUPPORT_DIR__/power-monitor/sleep-listener</string>
+    <string>__SUPPORT_DIR__/sleep-listener</string>
   </array>
   <key>ProcessType</key>
   <string>Background</string>
