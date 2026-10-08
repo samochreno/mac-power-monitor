@@ -1,0 +1,7 @@
+.DS_Store
+.state
+.lock
+sleep-listener
+__pycache__/
+*.log
+.env
